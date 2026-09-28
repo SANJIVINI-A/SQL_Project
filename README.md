@@ -1,4 +1,4 @@
-# real_estate_sql_project
+# REAL ESTATE SQL PROJECT
 
 # 🏠 Real Estate Property Management System (SQL Project)
 
